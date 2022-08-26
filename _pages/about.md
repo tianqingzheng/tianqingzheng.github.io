@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhenrui Yue"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I am currently a Informatics Ph.D. student at the [School of Information Sciences](https://ischool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with the M.Sc. degree in Robotics, Cognition, Intelligence with distinction from [Technische Universität München](https://www.tum.de/) in 2021. I received the Bachelor degree in Mechanical Engineering with Merit from the same university in 2019.
+
+My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) domain-generalized, (2) explainable and (3) robust.
 
 A data-driven personal website
 ======
