@@ -13,11 +13,10 @@ Hello! I am currently a Informatics Ph.D. student at the [School of Information 
 My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) domain-generalized, (2) explainable and (3) robust.
 
 Recent News
-======
-
-&nbsp;&nbsp; [Aug ’22] One COLING ’22 on QA domain adaptation accepted.
-&nbsp;&nbsp; [Aug ’22] One CIKM ‘22 full paper on misinformation detection accepted.
-&nbsp;&nbsp; [Jun ’22] One RecSys ’22 on adversarial recommender systems accepted as oral.
+------
+&nbsp;&nbsp; [Aug ’22] One COLING ’22 on QA domain adaptation accepted. \
+&nbsp;&nbsp; [Aug ’22] One CIKM ‘22 full paper on misinformation detection accepted. \
+&nbsp;&nbsp; [Jun ’22] One RecSys ’22 on adversarial recommender systems accepted as oral. \
 &nbsp;&nbsp; [Mar ’22] One DCOSS ’22 on non-intrusive load monitoring accepted as oral.
 
 Site-wide configuration
