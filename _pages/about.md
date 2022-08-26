@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am currently a Informatics Ph.D. student at the [School of Information Sciences](https://ischool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from [Technische Universität München](https://www.tum.de/) in 2021. I received my B.Sc. in Mechanical Engineering with Merit from the same university in 2019.
 
-My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) domain-generalized, (2) explainable and (3) robust.
+My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) generalized, (2) robust and (3) explainable.
 
 Recent News
 ------
@@ -21,6 +21,6 @@ Recent News
 
 Miscellaneous
 ------
-&nbsp;&nbsp; [Service] COLING 2022, AAAI 2023, IEEE SmartGrid. \
-&nbsp;&nbsp; [Languages] Chinese, Cantonese, English, German and a little bit Spanish. \
-&nbsp;&nbsp; [Awards] Shiyu Scholarship, Max Weber Program, Audi China Scholarship, e-fellows.net Scholarship, Bosch AIoT Scholarship. \
+&nbsp;&nbsp; Service: COLING 2022, AAAI 2023, IEEE SmartGrid. \
+&nbsp;&nbsp; Languages: Chinese, Cantonese, English, German and a little bit Spanish. \
+&nbsp;&nbsp; Awards: Shiyu Scholarship, Max Weber Program, Audi Scholarship, e-fellows.net Scholarship, Bosch AIoT Scholarship.
