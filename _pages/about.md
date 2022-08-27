@@ -17,10 +17,11 @@ Recent News
 &nbsp;&nbsp; [Aug 2022] One COLING ’22 on QA domain adaptation accepted. \
 &nbsp;&nbsp; [Aug 2022] One CIKM ‘22 full paper on misinformation detection accepted. \
 &nbsp;&nbsp; [Jun 2022] One RecSys ’22 on adversarial recommender systems accepted as oral. \
+&nbsp;&nbsp; [Mar 2022] Two IJCAI ’22 on uncertainty estimation and misinformation accepted as oral. \
 &nbsp;&nbsp; [Mar 2022] One DCOSS ’22 on non-intrusive load monitoring accepted as oral.
 
 Miscellaneous
 ------
 &nbsp;&nbsp; Service: COLING 2022, AAAI 2023, IEEE SmartGrid. \
-&nbsp;&nbsp; Languages: Chinese, Cantonese, English, German and a little bit Spanish. \
-&nbsp;&nbsp; Awards: Shiyu Scholarship, Max Weber Program, Audi Scholarship, e-fellows.net Scholarship, Bosch AIoT Scholarship.
+&nbsp;&nbsp; Languages: Chinese, Cantonese, English, German and a bit Spanish. \
+&nbsp;&nbsp; More will be added here when have time :)
