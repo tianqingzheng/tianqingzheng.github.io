@@ -22,33 +22,33 @@ Recent News
 
 Selected Publications
 ------
-Domain Adaptation for Question Answering via Question Classification
-<font size="2"> **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang </font>
-*<font size="2">The 29th International Conference on Computational Linguistics (COLING 2022)</font>*
-
-Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19 \
+**Domain Adaptation for Question Answering via Question Classification** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)*
+*COLING 2022*
 
-Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders \
+**Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*The 16th ACM Conference on Recommender Systems (RecSys 2022)*
+*CIKM 2022*
 
-On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks \
+**Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
+**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
+*RecSys 2022*
+
+**On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks** \
 Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
-*The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)*
+*IJCAI 2022*
 
-Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection \
+**Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection** \
 Ziyi Kou, Lanyu Shang, Yang Zhang, **Zhenrui Yue**, Huimin Zeng, Dong Wang \
-*The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)*
+*IJCAI 2022*
 
-Contrastive Domain Adaptation for Question Answering using Limited Text Corpora \
+**Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** \
 **Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
-*The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, Oral)*
+*EMNLP 2021, Oral*
 
-Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction \
+**Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
 **Zhenrui Yue^\*^**, Zhankui He^\*^, Huimin Zeng, Julian McAuley \
-*The 15th ACM Conference on Recommender Systems (RecSys 2021)*
+*RecSys 2021*
 
 Miscellaneous
 ------
