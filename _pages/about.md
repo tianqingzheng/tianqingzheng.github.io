@@ -14,44 +14,44 @@ My research interest lies in natural language processing, data mining, recommend
 
 Recent News
 ------
-&nbsp;&nbsp; [Aug 2022] One COLING ’22 on QA domain adaptation accepted. \
-&nbsp;&nbsp; [Aug 2022] One CIKM ‘22 full paper on misinformation detection accepted. \
-&nbsp;&nbsp; [Jun 2022] One RecSys ’22 on adversarial recommender systems accepted as oral. \
-&nbsp;&nbsp; [Apr 2022] Two IJCAI ’22 on uncertainty estimation and misinformation accepted as oral. \
-&nbsp;&nbsp; [Mar 2022] One DCOSS ’22 on non-intrusive load monitoring accepted as oral.
+[Aug 2022] One COLING ’22 on QA domain adaptation accepted. \
+[Aug 2022] One CIKM ‘22 full paper on misinformation detection accepted. \
+[Jun 2022] One RecSys ’22 on adversarial recommender systems accepted as oral. \
+[Apr 2022] Two IJCAI ’22 on uncertainty estimation and misinformation accepted as oral. \
+[Mar 2022] One DCOSS ’22 on non-intrusive load monitoring accepted as oral.
 
 Selected Publications
 ------
-&nbsp;&nbsp; Domain Adaptation for Question Answering via Question Classification \
-&nbsp;&nbsp; **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-&nbsp;&nbsp; *The 29th International Conference on Computational Linguistics (COLING 2022)* \
+Domain Adaptation for Question Answering via Question Classification \
+<font size="2"> **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang </font> \
+<font size="2"> *The 29th International Conference on Computational Linguistics (COLING 2022)* </font>
 
-&nbsp;&nbsp; Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19 \
-&nbsp;&nbsp; **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-&nbsp;&nbsp; *The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)* \
+Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19 \
+**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
+*The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)*
 
-&nbsp;&nbsp; Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders \
-&nbsp;&nbsp; **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-&nbsp;&nbsp; *The 16th ACM Conference on Recommender Systems (RecSys 2022)* \
+Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders \
+**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
+*The 16th ACM Conference on Recommender Systems (RecSys 2022)*
 
-&nbsp;&nbsp; On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks \
-&nbsp;&nbsp; Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
-&nbsp;&nbsp; *The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)* \
+On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks \
+Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
+*The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)*
 
-&nbsp;&nbsp; Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection \
-&nbsp;&nbsp; Ziyi Kou, Lanyu Shang, Yang Zhang, **Zhenrui Yue**, Huimin Zeng, Dong Wang \
-&nbsp;&nbsp; *The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)* \
+Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection \
+Ziyi Kou, Lanyu Shang, Yang Zhang, **Zhenrui Yue**, Huimin Zeng, Dong Wang \
+*The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)*
 
-&nbsp;&nbsp; Contrastive Domain Adaptation for Question Answering using Limited Text Corpora \
-&nbsp;&nbsp; **Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
-&nbsp;&nbsp; *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, Oral)* \
+Contrastive Domain Adaptation for Question Answering using Limited Text Corpora \
+**Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
+*The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, Oral)*
 
-&nbsp;&nbsp; Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction \
-&nbsp;&nbsp; **Zhenrui Yue**, Zhankui He, Huimin Zeng, Julian McAuley \
-&nbsp;&nbsp; *The 15th ACM Conference on Recommender Systems (RecSys 2021)*
+Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction \
+**Zhenrui Yue^\*^**, Zhankui He^\*^, Huimin Zeng, Julian McAuley \
+*The 15th ACM Conference on Recommender Systems (RecSys 2021)*
 
 Miscellaneous
 ------
-&nbsp;&nbsp; Service: COLING 2022, AAAI 2023, IEEE SmartGrid. \
-&nbsp;&nbsp; Languages: Chinese, Cantonese, English, German and a bit Spanish. \
-&nbsp;&nbsp; More will be added here when have time :)
+Service: COLING 2022, AAAI 2023, IEEE SmartGrid. \
+Languages: Chinese, Cantonese, English, German and a bit Spanish. \
+More will be added here when have time :)
