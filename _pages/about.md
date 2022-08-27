@@ -47,8 +47,10 @@ Ziyi Kou, Lanyu Shang, Yang Zhang, **Zhenrui Yue**, Huimin Zeng, Dong Wang \
 *EMNLP 2021, Oral*
 
 **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
-**Zhenrui Yue^\*^**, Zhankui He^\*^, Huimin Zeng, Julian McAuley \
+**Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
 *RecSys 2021*
+
+Full publication list can be found in my google scholar page.
 
 Miscellaneous
 ------
