@@ -54,6 +54,7 @@ Full publication list can be found in my google scholar page.
 
 Miscellaneous
 ------
+Teaching: IS203 Discrete Math, IS206 Intro to Database. \
 Service: COLING 2022, AAAI 2023, IEEE SmartGrid. \
 Languages: Chinese, Cantonese, English, German and a bit Spanish. \
 More will be added here when have time :)
