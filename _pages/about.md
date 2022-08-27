@@ -22,9 +22,9 @@ Recent News
 
 Selected Publications
 ------
-Domain Adaptation for Question Answering via Question Classification \
-<font size="2"> **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang </font> \
-<font size="2"> *The 29th International Conference on Computational Linguistics (COLING 2022)* </font>
+Domain Adaptation for Question Answering via Question Classification
+<font size="2"> **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang </font>
+*<font size="2">The 29th International Conference on Computational Linguistics (COLING 2022)</font>*
 
 Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19 \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
