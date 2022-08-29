@@ -14,11 +14,11 @@ My research interest lies in natural language processing, data mining, recommend
 
 Recent News
 ------
-[Aug 2022] One COLING '22 on QA domain adaptation accepted. \
+[Aug 2022] One COLING '22 full paper on QA domain adaptation accepted. \
 [Aug 2022] One CIKM '22 full paper on misinformation detection accepted. \
-[Jun 2022] One RecSys '22 on adversarial recommender systems accepted as oral. \
-[Apr 2022] Two IJCAI '22 on uncertainty estimation and misinformation accepted as oral. \
-[Mar 2022] One DCOSS '22 on non-intrusive load monitoring accepted as oral.
+[Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted as oral. \
+[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation accepted as oral. \
+[Mar 2022] One DCOSS '22 full paper on non-intrusive load monitoring accepted as oral.
 
 Selected Publications
 ------
