@@ -18,7 +18,7 @@ Recent News
 [Aug 2022] One COLING '22 full paper on QA domain adaptation accepted. \
 [Aug 2022] One CIKM '22 full paper on misinformation detection accepted. \
 [Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted as oral. \
-[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation accepted as oral.
+[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation detection accepted as oral.
 <!-- [Mar 2022] One DCOSS '22 full paper on non-intrusive load monitoring accepted as oral. -->
 
 Selected Publications
