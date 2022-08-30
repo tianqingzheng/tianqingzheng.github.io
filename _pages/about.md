@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Informatics Ph.D. student at the [School of Information Sciences](https://ischool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from [Technische Universität München](https://www.tum.de/) in 2021. I received my B.Sc. in Mechanical Engineering with Merit from the same university in 2019.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am currently a 2nd year Informatics Ph.D. student at the [School of Information Sciences](https://ischool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from [Technische Universität München](https://tum.de/) in 2021. I received my B.Sc. in Mechanical Engineering with Merit from the same university in 2019.
 
 My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) generalized, (2) robust and (3) explainable.
 
 Recent News
 ------
+[Aug 2022] I got the RecSys student travel award and SIGIR student travel grant for CIKM! \
 [Aug 2022] One COLING '22 full paper on QA domain adaptation accepted. \
 [Aug 2022] One CIKM '22 full paper on misinformation detection accepted. \
 [Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted as oral. \
-[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation accepted as oral. \
-[Mar 2022] One DCOSS '22 full paper on non-intrusive load monitoring accepted as oral.
+[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation accepted as oral.
+<!-- [Mar 2022] One DCOSS '22 full paper on non-intrusive load monitoring accepted as oral. -->
 
 Selected Publications
 ------
@@ -55,6 +56,6 @@ Full publication list can be found in my google scholar page.
 Miscellaneous
 ------
 Teaching: IS203 Discrete Math, IS206 Intro to Database. \
-Service: COLING 2022, AAAI 2023, IEEE SmartGrid. \
+Service: AAAI 2023, COLING 2022, IEEE SmartGrid. \
 Languages: Chinese, Cantonese, English, German and a bit Spanish. \
 More will be added here when have time :)
