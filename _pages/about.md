@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am currently a 2nd year Informatics Ph.D. student at the [School of Information Sciences](https://ischool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from [Technische Universität München](https://tum.de/) in 2021. I received my B.Sc. in Mechanical Engineering with Merit from the same university in 2019.
+Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am currently a 2nd year Informatics Ph.D. student (Cognitive Science & Language Processing Track) at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from [Technische Universität München](https://tum.de/) in 2021. I received my B.Sc. in Mechanical Engineering with Merit from the same university in 2019.
 
 My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) generalized, (2) robust and (3) explainable.
 
