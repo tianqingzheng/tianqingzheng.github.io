@@ -14,8 +14,9 @@ My research interest lies in natural language processing, data mining, recommend
 
 Recent News
 ------
+[Oct 2022] One EMNLP '22 full paper on adaptive question answering accepted! \
 [Aug 2022] I got the RecSys student travel award and SIGIR student travel grant for CIKM! \
-[Aug 2022] One COLING '22 full paper on QA domain adaptation accepted. \
+[Aug 2022] One COLING '22 full paper on QA and question classification accepted. \
 [Aug 2022] One CIKM '22 full paper on misinformation detection accepted. \
 [Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted as oral. \
 [Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation detection accepted as oral.
