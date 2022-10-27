@@ -26,7 +26,7 @@ Selected Publications
 ------
 **QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation** \
 **Zhenrui Yue\***, Huimin Zeng\*, Bernhard Kratzwald, Stefan Feuerriegel, Dong Wang \
-*EMNLP 2022*
+*EMNLP 2022, Oral*
 
 **Domain Adaptation for Question Answering via Question Classification** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
