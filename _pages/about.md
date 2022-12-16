@@ -14,6 +14,7 @@ My research interest lies in natural language processing, data mining, recommend
 
 Recent News
 ------
+[Dec 2022] I will be joining NVIDIA as RecSys research intern in summer 2023! \
 [Oct 2022] One EMNLP '22 full paper on adaptive question answering accepted! \
 [Aug 2022] I got the RecSys student travel award and SIGIR student travel grant for CIKM! \
 [Aug 2022] One COLING '22 full paper on QA and question classification accepted. \
