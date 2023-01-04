@@ -15,12 +15,12 @@ My research interest lies in natural language processing, data mining, recommend
 Recent News
 ------
 [Dec 2022] I will be joining NVIDIA as RecSys research intern in summer 2023! \
-[Oct 2022] One EMNLP '22 full paper on adaptive question answering accepted! \
+[Oct 2022] One EMNLP '22 full paper on domain adaptive question answering accepted! \
 [Aug 2022] I got the RecSys student travel award and SIGIR student travel grant for CIKM! \
 [Aug 2022] One COLING '22 full paper on QA and question classification accepted. \
-[Aug 2022] One CIKM '22 full paper on misinformation detection accepted. \
-[Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted as oral. \
-[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation detection accepted as oral.
+[Aug 2022] One CIKM '22 full paper on misinformation detection accepted! \
+[Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted. \
+[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation detection accepted!
 <!-- [Mar 2022] One DCOSS '22 full paper on non-intrusive load monitoring accepted as oral. -->
 
 Selected Publications
@@ -31,7 +31,7 @@ Yang Zhang, Ziyi Kou, Lanyu Shang, Huimin Zeng, **Zhenrui Yue**, Dong Wang \
 
 **QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation** \
 **Zhenrui Yue\***, Huimin Zeng\*, Bernhard Kratzwald, Stefan Feuerriegel, Dong Wang \
-*EMNLP 2022, Oral*
+*EMNLP 2022*
 
 **Domain Adaptation for Question Answering via Question Classification** \
 **Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
@@ -55,7 +55,7 @@ Ziyi Kou, Lanyu Shang, Yang Zhang, **Zhenrui Yue**, Huimin Zeng, Dong Wang \
 
 **Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** \
 **Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
-*EMNLP 2021, Oral*
+*EMNLP 2021*
 
 **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
 **Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
