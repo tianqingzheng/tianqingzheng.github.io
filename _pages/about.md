@@ -25,6 +25,10 @@ Recent News
 
 Selected Publications
 ------
+**A Crowd-AI Collaborative Duo Relational Graph Learning Framework Towards Social Impact Aware Photo Classification** \
+Yang Zhang, Ziyi Kou, Lanyu Shang, Huimin Zeng, **Zhenrui Yue**, Dong Wang \
+*AAAI 2023*
+
 **QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation** \
 **Zhenrui Yue\***, Huimin Zeng\*, Bernhard Kratzwald, Stefan Feuerriegel, Dong Wang \
 *EMNLP 2022, Oral*
