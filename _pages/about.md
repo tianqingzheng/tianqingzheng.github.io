@@ -25,12 +25,12 @@ My research interest lies in trustworthy machine learning, NLP and recommender s
 
 Selected Publications
 ------
-**Unsupervised Domain Adaptation for COVID-19 Information Service with Contrastive Adversarial Domain Mixup**
-**Huimin Zeng**, Zhenrui Yue, Ziyi Kou, Lanyu Shang, Yang Zhang, Dong Wang
+**Unsupervised Domain Adaptation for COVID-19 Information Service with Contrastive Adversarial Domain Mixup**\
+**Huimin Zeng**, Zhenrui Yue, Ziyi Kou, Lanyu Shang, Yang Zhang, Dong Wang\
 *ASONAM 2022*
 
 **Boosting Demographic Fairness of Face Attribute Classifiers via Latent Adversarial Representations** \
-**Huimin Zeng**, Zhenrui Yue, Lanyu Shang, Yang Zhang, Dong Wang
+**Huimin Zeng**, Zhenrui Yue, Lanyu Shang, Yang Zhang, Dong Wang\
 *BigData 2022*
 
 **On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks** \
@@ -46,7 +46,7 @@ Zhenrui Yue, **Huimin Zeng**, Ziyi Kou, Lanyu Shang, Dong Wang \
 *RecSys 2022*
 
 **Are adversarial examples created equal? A learnable weighted minimax risk for robustness under non-uniform attacks**\
-**Huimin Zeng**, Chen Zhu, Tom Goldstein, Furong Huang
+**Huimin Zeng**, Chen Zhu, Tom Goldstein, Furong Huang\
 *AAAI 2021*
 
 **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
@@ -58,7 +58,4 @@ Full publication list can be found in my google scholar page.
 
 Miscellaneous
 ------
-Teaching: IS203 Discrete Math, IS206 Intro to Database. \
-Service: AAAI 2023, COLING 2022, IEEE SmartGrid. \
-Languages: Chinese, Cantonese, English, German and a bit Spanish. \
-More will be added here when have time :)
+Teaching: Computer Networks, Intro to Database, Intro to Deep Learning. 
