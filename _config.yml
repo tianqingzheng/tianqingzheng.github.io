@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenrui's Webpage"
+title                    : "Huimin Zeng's Webpage"
 title_separator          : "-"
-name                     : &name "Zhenrui Yue"
+name                     : &name "Huimin Zeng"
 description              : &description "Ph.D. Student at UIUC"
-url                      : https://yueeeeeeee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huiminzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yueeeeeeee/yueeeeeeee.github.io"
+repository               : "huiminzeng/huiminzeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhenrui Yue"
-  avatar           : "profile.jpg"
-  bio              : "Ph.D. Student at UIUC, Interested in NLP, RecSys & Data Mining"
+  name             : "Huimin Zeng"
+  avatar           : "photo.jpeg"
+  bio              : "Ph.D. Student at UIUC, Interested in Trustworthy Machine Learning"
   location         : "Champaign, IL"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=9Iy_KmsAAAAJ&hl=zh-CN"
-  email            : "zhenrui3@illinois.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=N-2sGUkAAAAJ"
+  email            : "huiminz3@illinois.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yueeeeeeee"
+  github           : "huiminzeng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "zhenrui-yue"
+  linkedin         : "huimin-zeng-264aa1186"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "Yueeeeeeee2837"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
