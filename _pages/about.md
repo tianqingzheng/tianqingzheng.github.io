@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhenrui Yue"
+title: "Huimin Zeng"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Zhenrui Yue (岳真锐 in Chinese)! I am currently a 2nd year Informatics Ph.D. student (Cognitive Science & Language Processing Track) at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from [Technische Universität München](https://tum.de/) in 2021. I received my B.Sc. in Mechanical Engineering with Merit from the same university in 2019.
+Hello, this is Huimin Zeng (曾惠民 in Chinese)! I am currently a 2nd year Ph.D. student at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from Technische Universität München in 2021. I received my B.Sc. in Robotics and Automation from Tongji University in 2018.
 
-My research interest lies in natural language processing, data mining, recommender systems, and adversarial machine learning. I am particularly interested in research problems like transfer learning and few-shot learning, with applications such as question answering and conversational recommender systems. To this end, my research aims to make machine learning models become more (1) generalized, (2) robust and (3) explainable.
+My research interest lies in trustworthy machine learning, NLP and recommender systems. 
 
-Recent News
+<!-- Recent News
 ------
 [Dec 2022] I will be joining NVIDIA as RecSys research intern in summer 2023! \
 [Oct 2022] One EMNLP '22 full paper on domain adaptive question answering accepted! \
@@ -20,46 +20,39 @@ Recent News
 [Aug 2022] One COLING '22 full paper on QA and question classification accepted. \
 [Aug 2022] One CIKM '22 full paper on misinformation detection accepted! \
 [Jun 2022] One RecSys '22 full paper on adversarial recommender systems accepted. \
-[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation detection accepted!
+[Apr 2022] Two IJCAI '22 papers on uncertainty estimation and misinformation detection accepted! -->
 <!-- [Mar 2022] One DCOSS '22 full paper on non-intrusive load monitoring accepted as oral. -->
 
 Selected Publications
 ------
-**A Crowd-AI Collaborative Duo Relational Graph Learning Framework Towards Social Impact Aware Photo Classification** \
-Yang Zhang, Ziyi Kou, Lanyu Shang, Huimin Zeng, **Zhenrui Yue**, Dong Wang \
-*AAAI 2023*
+**Unsupervised Domain Adaptation for COVID-19 Information Service with Contrastive Adversarial Domain Mixup**
+**Huimin Zeng**, Zhenrui Yue, Ziyi Kou, Lanyu Shang, Yang Zhang, Dong Wang
+*ASONAM 2022*
 
-**QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation** \
-**Zhenrui Yue\***, Huimin Zeng\*, Bernhard Kratzwald, Stefan Feuerriegel, Dong Wang \
-*EMNLP 2022*
-
-**Domain Adaptation for Question Answering via Question Classification** \
-**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*COLING 2022*
-
-**Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19** \
-**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*CIKM 2022*
-
-**Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
-**Zhenrui Yue**, Huimin Zeng, Ziyi Kou, Lanyu Shang, Dong Wang \
-*RecSys 2022*
+**Boosting Demographic Fairness of Face Attribute Classifiers via Latent Adversarial Representations** \
+**Huimin Zeng**, Zhenrui Yue, Lanyu Shang, Yang Zhang, Dong Wang
+*BigData 2022*
 
 **On Attacking Out-Domain Uncertainty Estimation in Deep Neural Networks** \
-Huimin Zeng, **Zhenrui Yue**, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
+**Huimin Zeng**, Zhenrui Yue, Yang Zhang, Ziyi Kou, Lanyu Shang, Dong Wang \
 *IJCAI 2022*
 
-**Crowd, Expert & AI: A Human-AI Interactive Approach Towards Natural Language Explanation Based COVID-19 Misinformation Detection** \
-Ziyi Kou, Lanyu Shang, Yang Zhang, **Zhenrui Yue**, Huimin Zeng, Dong Wang \
-*IJCAI 2022*
+**QA Domain Adaptation using Hidden Space Augmentation and Self-Supervised Contrastive Adaptation** \
+Zhenrui Yue\*, **Huimin Zeng\***, Bernhard Kratzwald, Stefan Feuerriegel, Dong Wang \
+*EMNLP 2022*
 
-**Contrastive Domain Adaptation for Question Answering using Limited Text Corpora** \
-**Zhenrui Yue**, Bernhard Kratzwald, Stefan Feuerriegel \
-*EMNLP 2021*
+**Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders** \
+Zhenrui Yue, **Huimin Zeng**, Ziyi Kou, Lanyu Shang, Dong Wang \
+*RecSys 2022*
+
+**Are adversarial examples created equal? A learnable weighted minimax risk for robustness under non-uniform attacks**\
+**Huimin Zeng**, Chen Zhu, Tom Goldstein, Furong Huang
+*AAAI 2021*
 
 **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction** \
-**Zhenrui Yue\***, Zhankui He\*, Huimin Zeng, Julian McAuley \
+Zhenrui Yue\*, Zhankui He\*, **Huimin Zeng**, Julian McAuley \
 *RecSys 2021*
+
 
 Full publication list can be found in my google scholar page.
 
