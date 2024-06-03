@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huimin Zeng's Webpage"
+title                    : "Tianqing Zheng's Webpage"
 title_separator          : "-"
-name                     : &name "Huimin Zeng"
-description              : &description "Ph.D. Student at UIUC"
-url                      : https://huiminzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tianqing Zheng"
+description              : &description "Master Student at University of Cambridge"
+url                      : https://tianqingzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huiminzeng/huiminzeng.github.io"
+repository               : "tianqingzheng/tianqingzheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huimin Zeng"
+  name             : "Tianqing Zheng"
   avatar           : "photo.jpeg"
-  bio              : "Ph.D. Student at UIUC, Interested in Trustworthy Machine Learning"
-  location         : "Champaign, IL"
+  bio              : "Masteer Student at University of Cambridge."
+  location         : "Cambridge, UK"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=N-2sGUkAAAAJ"
-  email            : "huiminz3@illinois.edu"
+  googlescholar    : ""
+  email            : ""
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huiminzeng"
+  github           : "tianqingzheng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "huimin-zeng-264aa1186"
+  linkedin         : ""
   orcid            :
   pinterest        :
   soundcloud       :
